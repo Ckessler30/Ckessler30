@@ -4,5 +4,7 @@ I am a highly organized and driven software developer who strives to exceed all 
 
 My passion for programming is backed by the fact that there is always more to learn and I am excited to do so.
 
-## Check out my LinkedIn
-https://www.linkedin.com/in/chase-kessler-97a135221/
+### Come learn more about me! 
+- Portfolio -> http://chase-kessler.online/
+- LinkedIn -> https://www.linkedin.com/in/chase-kessler-97a135221/
+- AngelList -> https://angel.co/u/chase-kessler
